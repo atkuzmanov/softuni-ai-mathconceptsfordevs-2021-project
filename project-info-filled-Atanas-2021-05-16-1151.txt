@@ -46,13 +46,25 @@ The numbers in brackets define possible points for the corresponding item.
 
 ### Self-assessment and notes filled in by Atanas Kuzmanov:
 
-1. Problem statement (9)
+1. Problem statement (10)
+	* The problem is clearly stated in the "Subtitle" section, discussed in the "Abstract" section , and further discussed and explored using the Scientific Method and solved in the "Show a practical use of PCA, for example, trying to see features in a 15D space, projected in 3D." section.
 
 2. Layout (19)
+	* The layout is well structured with different sections well emphasized and differentiated.
+	* A structure of nested headlines using Markdown has been used.
+	* Additional layout elements, such as horizontal lines have been used to further support readability and structure of the layout.
+	* Different fonts such as bold, italic etc. have been used.
+	* Use of Code cells, LaTeX, graphs and images have been used and positioned according to the flow of the article.
+	* References, links and anchor tags have been used to link to different sections for easier navigation.
+	
+	* Downside - the project is a bit lengthy. 
 
 3. Code quality (18)
+	* Currently only the code in the Show some applications of PCA, e.g. reducing a 3D image to its first 2 principal components, plotting the 3D and 2D images. section has been refactored into separate functions and most of the other code in the article is left fragmented. There is a very good reason for this, which is that the aim of this article is to understand PCA and the mathematics behind it and use code to aid us to that. This is why the fragments of code throughout this article are used to help us understand PCA and the mathematics behind it and illustrate and demonstrated different parts and PCA as a whole.
+	* Most of the commented out code in this article is left on purpose to serve as information, as part of the intent for this article is for it to be a knowledgebase.
 
 4. Previous research (10)
+	* 
 
 5. Gathering / generating, cleaning, and formatting data (10)
 
