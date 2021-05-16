@@ -73,13 +73,17 @@ The numbers in brackets define possible points for the corresponding item.
 
 6. Testing (5)
 	* Project tests
+		* 
 
 	* Code tests
-	* There are tests in the project. Since code tests are outside
-	* Most of the tests in this 
-	* Please refer to the "3. Code quality" section of this self-assessment. The focus of this project is on understanding PCA and the mathematics behind it and on using pieces of code to illustrate and achieve this, not on testing the code.
+		* There are tests in the project. Since code tests are outside of the focus of this project
+		* Most of the tests in this project are visual and are marked with this "### Test" comment above it.
+		* There are also 
+		* Please refer to the "3. Code quality" section of this self-assessment. The focus of this project is on understanding PCA and the mathematics behind it and on using pieces of code to illustrate and achieve this, not on testing the code.
 
 7. Visualization (10)
+	* I have tried to make the project as visually rich as possible with my existing knowledge and the knowledge I have gained by researching how to visualize 3D space. There are lots of graphs and plots for looking at the data from different angles and different perspectives and comparisons.
+	* There are also lots of descriptive images and screenshots provided in addition.
 
 8. Communication (10)
 
