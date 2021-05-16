@@ -62,13 +62,22 @@ The numbers in brackets define possible points for the corresponding item.
 3. Code quality (18)
 	* Currently only the code in the Show some applications of PCA, e.g. reducing a 3D image to its first 2 principal components, plotting the 3D and 2D images. section has been refactored into separate functions and most of the other code in the article is left fragmented. There is a very good reason for this, which is that the aim of this article is to understand PCA and the mathematics behind it and use code to aid us to that. This is why the fragments of code throughout this article are used to help us understand PCA and the mathematics behind it and illustrate and demonstrated different parts and PCA as a whole.
 	* Most of the commented out code in this article is left on purpose to serve as information, as part of the intent for this article is for it to be a knowledgebase.
+	* The code is well commented.
 
 4. Previous research (10)
-	* 
+	* I have done tons of research and reading in order to accomplish this great feat of building this project. All of the reading can be found in the "Research" section in "Appendix A".
 
 5. Gathering / generating, cleaning, and formatting data (10)
+	* I have explored and gathered several datasets before choosing the Iris Dataset for the theory part of the project and the Car Dataset for the practical application of PCA.
+	* The data is cleaned and prepared in the "Cleaning and preparing the data" subsection of the "Show a practical use of PCA, for example, trying to see features in a 15D space, projected in 3D." section.
 
 6. Testing (5)
+	* Project tests
+
+	* Code tests
+	* There are tests in the project. Since code tests are outside
+	* Most of the tests in this 
+	* Please refer to the "3. Code quality" section of this self-assessment. The focus of this project is on understanding PCA and the mathematics behind it and on using pieces of code to illustrate and achieve this, not on testing the code.
 
 7. Visualization (10)
 
